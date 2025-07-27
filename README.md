@@ -21,7 +21,7 @@ A lightweight, annotation-based cron scheduling library for Java that automatica
 ### Maven
 ```xml
 <dependency>
-    <groupId>com.cronlib</groupId>
+    <groupId>com.sol.hizinhe</groupId>
     <artifactId>auto-cron-scheduler</artifactId>
     <version>0.0.0</version>
 </dependency>
@@ -31,6 +31,8 @@ A lightweight, annotation-based cron scheduling library for Java that automatica
 ```gradle
 implementation 'com.sol.hizinhey:auto-cron-scheduler:0.0.0'
 ```
+
+** Note: I am not push it to maven repository.
 
 ### Manual
 Download the JAR file and add it to your classpath.
@@ -291,4 +293,4 @@ If this project helped you, please give it a ⭐ star on GitHub!
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Hizin Hey](https://github.com/hizinhey)**
