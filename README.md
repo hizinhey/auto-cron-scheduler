@@ -283,9 +283,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Issues & Support
 
-- Report bugs: [GitHub Issues](https://github.com/yourusername/auto-cron-scheduler/issues)
-- Feature requests: [GitHub Discussions](https://github.com/yourusername/auto-cron-scheduler/discussions)
-- Documentation: [Wiki](https://github.com/yourusername/auto-cron-scheduler/wiki)
+- Report bugs: [GitHub Issues](https://github.com/hizinhey/auto-cron-scheduler/issues)
+- Feature requests: [GitHub Discussions](https://github.com/hizinhey/auto-cron-scheduler/discussions)
+- Documentation: [Wiki](https://github.com/hizinhey/auto-cron-scheduler/wiki)
 
 ## ⭐ Show Your Support
 
